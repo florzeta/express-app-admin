@@ -1,0 +1,50 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+/* Estilo para el formulario */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Estilo para el campo de entrada */
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+/* Estilo para el botón de envío */
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Estilo para el enlace */
+a {
+  color: #007bff;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+/* Estilo para el título */
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para el párrafo */
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
